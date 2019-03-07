@@ -1,0 +1,5 @@
+com\lyc\mapper\BgmMapper.class
+com\lyc\mapper\UsersMapper.class
+com\lyc\mapper\UsersReportMapper.class
+com\lyc\mapper\UsersReportMapperCustom.class
+com\lyc\mapper\VideosMapper.class
